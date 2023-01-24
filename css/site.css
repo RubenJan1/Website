@@ -118,6 +118,15 @@ margin-top: 8px;
 
 }
 
+article{
+  scroll-behavior: auto;
+  height: 200px;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+  height: 100%;
+ font-size: 5em;
+}
+
 #article-historie{
 background-color: #FFF119 ;
 width: 60%;
